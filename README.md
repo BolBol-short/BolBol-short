@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @BolBol-short
-- 👀 I’m interested in Computer Science especially Software Engineer
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+-   Hello,  I’m @BolBol-short
 
-<!---
-BolBol-short/BolBol-short is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-   Sex             :    Male
+
+-   Age             :    "18"    ---    ( 24 / 07 / 2006 )
+ 
+-   I’m interested in 'Software Development' with the background of an 'Accountant'
+
+-   College         :
+    + (Currently) Major in Computer Science    > Started : 2024    --- Expected Ended : 2028
+    + (Currently) Major in Accountant          > Started : 2024    --- Expected Ended : 2028
+
+-   Certifications  :
+    + NONE
+
+-   How to reach me :
+                      Gmail      :
+                      LinkedIn   :
+                      X          :
+                      Discord    :
+                      GitHub     :
+
+-   Future : To Be "Financially Stable"
