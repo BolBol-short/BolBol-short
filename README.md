@@ -14,10 +14,10 @@
     + NONE
 
 -   How to reach me :
-                      Gmail      :
-                      LinkedIn   :
-                      X          :
-                      Discord    :
-                      GitHub     :
+                      Gmail      :   chhonchhaychanvibol@gmail.com
+                      LinkedIn   :   
+                      X          :   
+                      Discord    :   DogeSleeping#8951
+                      GitHub     :   (This is Me)
 
 -   Future : To Be "Financially Stable"
