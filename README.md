@@ -20,4 +20,7 @@
                       Discord    :   DogeSleeping#8951
                       GitHub     :   (This is Me)
 
+
 -   Future : To Be "Financially Stable"
+
+-   I'm learning code / programming just for hobby / fun.
