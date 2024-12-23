@@ -13,13 +13,12 @@
 -   Certifications  :
     + NONE
 
--   How to reach me :
-                      + Gmail      :   chhonchhaychanvibol@gmail.com
-                      + LinkedIn   :
-                      + X          :   
-                      + Discord    :   DogeSleeping#8951
-                      + GitHub     :   (This is Me)
-
+-   How to reach me ;
+-   Gmail           : . . . 
+-   Github          : (This is Me)
+-   LinkedIn        : . . . 
+-   Discord         : . . . 
+-   
 
 -   Future : To Be "Financially Stable"
 
