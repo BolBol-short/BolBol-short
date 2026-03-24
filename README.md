@@ -1,25 +1,14 @@
--   Hello,  I’m @BolBol-short
+Hi, I'm Vibol
+19, Dream to be Backend Engineer
+Work with:
+- Javascript / Node.js
+- React
+- Python
+- Web Design
 
--   Sex             :    Male
+Currently: Undergraduate at Cambodia Academy of Digital Technology
+Likes: Gaming and listening to music
 
--   Age             :    "18"    ---    ( 24 / 07 / 2006 )
- 
--   I’m interested in 'Software Development' with the background of an 'Accountant'
+Current Personal Project: Desmos website calculator/visualizer
 
--   College         :
-    + (Currently) Major in Computer Science    > Started : 2024    --- Expected Ended : 2028
-    + (Currently) Major in Accountant          > Started : 2024    --- Expected Ended : 2028
-
--   Certifications  :
-    + NONE
-
--   How to reach me ;
--   Gmail           : . . . 
--   Github          : (This is Me)
--   LinkedIn        : . . . 
--   Discord         : . . . 
--   
-
--   Future : To Be "Financially Stable"
-
--   I'm learning code / programming just for hobby / fun.
+Completed Projects:
