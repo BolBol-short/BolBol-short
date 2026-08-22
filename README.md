@@ -1,6 +1,6 @@
 Hi, I'm Vibol, 20
 
-Dream to be Backend Engineer, AI Engineer
+Dream to be Backend Engineer, AI Engineer, Cybersecurity Expert, Data Analyst/Engineer, Cloud Engineer, and ML expert.
 
 Work with   :
 - Javascript / Node.js
