@@ -5,7 +5,7 @@ Dream to be Backend Engineer, AI Engineer, Cybersecurity, Data Analyst/Engineer,
 Work with   : JS, React.js, Python, MySQL
 
 Projects :
-- Campus-Equipment-Loan  - [Link](https://github.com/BolBol-short/campus-equipment-loan.git)
+- Campus-Equipment-Loan  - [Link](https://github.com/BolBol-short/campus-equipment-loans.git)
 - Angket        - [Link](https://github.com/sokunkanhanget/angket-bot.git)
 - InternshipFinder - [Link](https://github.com/BolBol-short/CS-Y3-T3-Project.git)
 - 
